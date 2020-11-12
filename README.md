@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/tristcoil/Udacity_DevOps_machine_learning_microservice.svg?style=svg)](https://circleci.com/gh/tristcoil/Udacity_DevOps_machine_learning_microservice)
 
 ## Project Overview
 
